@@ -6,7 +6,12 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+h1{
+  color: rgb(6, 115, 134);
+}
+p{
+  color: blue;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
